@@ -1,4 +1,3 @@
 # Prova
 This is my code
-<<<<<<< HEAD
-Seconda prova editato localmente
+Seconda prova editato con vsc
